@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Satrio Adi Baskoro**.<br>
+Perkenalkan nama saya **Satrio Adi**.<br>
 
 Saya seorang **Mahasiswa IT**<br>
 
