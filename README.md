@@ -32,7 +32,7 @@
 ## 📂 Highlighted Projects
 *Note: Explore my pinned repositories to see the code and full case studies!*
 
-*   **Social Media Bot Detection:** Built a Machine Learning model to detect Fake-Followers by optimizing advanced Deep Learning parameters.
+*   **Fake Followers Detection:** Built a Machine Learning model to detect Fake-Followers by optimizing advanced Deep Learning parameters.
 *   **Crypto Price Forecasting:** Developed a custom Seq2Seq architecture (LSTM & Multi-Head Attention) in TensorFlow with a Custom Training Loop for 24-hour direct multi-step forecasting.
 *   **Sentiment Analysis:** Fine-tuned a Large Language Model (IndoBERT) using PyTorch for multiclass online review classification, achieving 90.86% testing accuracy.
 *   **Image Classification (Computer Vision):** Engineered a Convolutional Neural Network (CNN) architecture using TensorFlow to accurately classify image datasets.
