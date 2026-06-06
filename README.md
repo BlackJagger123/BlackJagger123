@@ -38,11 +38,6 @@
 *   **Image Classification (Computer Vision):** Engineered a Convolutional Neural Network (CNN) architecture using TensorFlow to accurately classify image datasets.
 *   **Digital Signature App (PBL):** Led a cross-functional team as IT Project Manager & System Analyst through the full SDLC to design and prototype a mobile application.
 
-## 📈 GitHub Stats
-<a href="https://github.com/BlackJagger123">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackJagger123&show_icons=true&theme=radium&hide_border=true" alt="Satrio's GitHub stats" />
-</a>
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satrioadi20)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satriia794@gmail.com)
