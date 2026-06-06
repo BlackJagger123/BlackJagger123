@@ -36,7 +36,6 @@
 *   **Crypto Price Forecasting:** Developed a custom Seq2Seq architecture (LSTM & Multi-Head Attention) in TensorFlow with a Custom Training Loop for 24-hour direct multi-step forecasting.
 *   **Sentiment Analysis:** Fine-tuned a Large Language Model (IndoBERT) using PyTorch for multiclass online review classification, achieving 90.86% testing accuracy.
 *   **Image Classification (Computer Vision):** Engineered a Convolutional Neural Network (CNN) architecture using TensorFlow to accurately classify image datasets.
-*   **Digital Signature App (PBL):** Led a cross-functional team as IT Project Manager & System Analyst through the full SDLC to design and prototype a mobile application.
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satrioadi20)
