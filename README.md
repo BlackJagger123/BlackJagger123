@@ -43,5 +43,9 @@
 *   **Image Classification (Computer Vision):** Engineered a Convolutional Neural Network (CNN) architecture using TensorFlow to accurately classify image datasets.
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satrioadi20)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satriia794@gmail.com)
+<a href="https://linkedin.com/in/satrioadi20" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" title="LinkedIn" />
+</a> &nbsp;
+<a href="mailto:satriia794@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="45" title="Email" />
+</a>
